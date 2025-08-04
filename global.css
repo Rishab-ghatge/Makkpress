@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.row{
+ display: flex;
+}
+.container-fluid{
+  padding: 0px 30px;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.container{
+  max-width: 1170px;
+  padding: 0px 15px;
+  margin: auto;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type: none;
+  cursor: pointer;
+}

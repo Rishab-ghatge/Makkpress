@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="44 61 112 78" viewBox="44 61 112 78" xmlns="http://www.w3.org/2000/svg" data-type="shape" role="img" fill="red" aria-label="Hamburger Menu">
+    <g>
+        <path d="M156 61v12H44V61h112z"></path>
+        <path d="M156 94v12H44V94h112z"></path>
+        <path d="M156 127v12H44v-12h112z"></path>
+    </g>
+</svg>
